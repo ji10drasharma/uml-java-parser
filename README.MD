@@ -6,6 +6,10 @@ Welcome to the `uml2lejos.py` project! This tool allows you to generate Java cod
 
 `uml2lejos.py` is the main script that facilitates the conversion of UML state chart JSON files into Java code. This is particularly useful for robotics programming with the LeJOS platform.
 
+## Input Files
+
+The program takes JSON files as input. Examples of such files are `Task1.mdj` and `Task2.mdj`.
+
 ## Usage
 
 To run the script, use the following command:
